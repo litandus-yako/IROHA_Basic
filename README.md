@@ -26,7 +26,7 @@ A quick hyperspectral data analyzer based on rule-based approaches
 
 ## インストール手順
 
-1. リポジトリ（ https://github.com/litandus-yako/IROHA_Basic ）より最新の `IROHA_Basic_Setup.msi` をダウンロードします。
+1. リリースページ（ https://github.com/litandus-yako/IROHA_Basic/releases ）より最新の `IROHA_Basic_Setup.msi` をダウンロードします。
 2. ダウンロードした `.msi` ファイルをダブルクリックしてインストーラーを起動します。Microsoft Defenderの警告が表示された場合は、詳細情報→実行、などで回避してください（自己責任）。
 3. 画面の指示に従ってインストールを完了させてください。
 4. インストール完了後、デスクトップに作成される「IROHA_Basic」アイコン、もしくは解答先フォルダ内のexeファイルから起動できます。
