@@ -1,3 +1,5 @@
+🌐 [English README is here](./README_en.md)
+
 # IROHA_Basic (イロハ ベーシック)
 A quick hyperspectral data analyzer based on rule-based approaches
 本ソフトウェア『IROHA_Basic』は、研究者や技術者が手元のハイパースペクトル画像データを直感的に読み込み・可視化・セグメンテーション（分類）するためのオープンソース/フリーのデスクトップアプリケーションです。
