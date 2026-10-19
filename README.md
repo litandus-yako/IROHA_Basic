@@ -1,4 +1,4 @@
-🌐 [English README is here](./README_en.md)
+🌐 [English README is here](./README_EN.md)
 
 # IROHA_Basic (イロハ ベーシック)
 A quick hyperspectral data analyzer based on rule-based approaches
